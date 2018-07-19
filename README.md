@@ -1,22 +1,23 @@
-# [SASS] Source Sans Pro
+# :a: [SASS] Source Sans Pro
 
-## How to use?
+## :books: How to use?
 Download the repository and move all `SASS` files to your project.
 
 Include the `SourceSansPro.scss` to your main `SASS` file like
 ```sass
 @import "<YourDirectory>SourceSansPro";
 ```
-Let's compile!
+
+> :fire: Let's compile!
 
 If you wan't a **precompiled** stylesheet, visit the `/dist/` directory.
 
-## Copyrights
+## :exclamation: Copyrights
 Original from [Open Sans - Google Fonts](https://fonts.google.com/specimen/Open+Sans)
 
 Copyright 2010, 2012, 2014 Adobe Systems Incorporated (http://www.adobe.com/).
 
-## License
+## :key: License
 ```
 Copyright 2010, 2012, 2014 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name ‘Source’.
 
