@@ -1,6 +1,6 @@
-@import "_mixins/strings";
-@import "_config";
-@import "_definitions";
+@import "mixins/string";
+@import "config";
+@import "definitions";
 
 /* Rendering */
 @each $type in $font-types {
