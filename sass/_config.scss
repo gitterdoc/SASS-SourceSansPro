@@ -7,8 +7,8 @@
 /*
  * Add the light fonts
  *
- * @property $use-light
- * @type {Boolean}
+ * @property use-light
+ * @type Boolean
  * @default true
  */
 $use-light: true;
@@ -16,8 +16,8 @@ $use-light: true;
 /*
  * Add the regular fonts
  *
- * @property $use-regular
- * @type {Boolean}
+ * @property use-regular
+ * @type Boolean
  * @default true
  */
 $use-regular: true;
@@ -25,8 +25,8 @@ $use-regular: true;
 /*
  * Add the semi-bolded fonts
  *
- * @property $use-semibold
- * @type {Boolean}
+ * @property use-semibold
+ * @type Boolean
  * @default true
  */
 $use-semibold: true;
@@ -34,8 +34,8 @@ $use-semibold: true;
 /*
  * The directory where the fonts are available
  *
- * @property $use-light
- * @type {String}
+ * @property use-light
+ * @type String
  * @default "../fonts/"
  */
 $font-folder: "../fonts/";
@@ -43,8 +43,8 @@ $font-folder: "../fonts/";
 /*
  * The name of the font
  *
- * @property $font-name
- * @type {String}
+ * @property font-name
+ * @type String
  * @default "Source Sans Pro"
  */
 $font-name: "Source Sans Pro";
@@ -52,8 +52,8 @@ $font-name: "Source Sans Pro";
 /*
  * The extension of the given font
  *
- * @property $font-type
- * @type {String}
+ * @property font-type
+ * @type String
  * @default "woff2"
  */
 $font-type: "woff2";
