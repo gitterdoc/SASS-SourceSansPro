@@ -1,0 +1,10 @@
+{
+    "title": "[SASS] Source Sans Pro",
+    "version": "1.0.0",
+    "theme": "default",
+    "type": "HTML",
+    "options": {
+        "source": "@master\/sass",
+        "output": "@master\/docs"
+    }
+}
