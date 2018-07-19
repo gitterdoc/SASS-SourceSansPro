@@ -1,4 +1,17 @@
-/* Mixins for Strings */
+/**
+ * Mixin-String functions for the generation
+ *
+ * @class _string.scss
+ * @module String
+ */
+
+/*
+ * Trimms a string and removes the given whitespaces
+ *
+ * @method trim
+ * @param {String} str The input string
+ * @returns {String} Returns a the trimmed string
+ */
 @function trim($str) {
 	@while (str-index($str, ' ') != null) {
 		$index:	str-index($str, ' ');
