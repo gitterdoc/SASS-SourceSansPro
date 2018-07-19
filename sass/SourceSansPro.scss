@@ -1,8 +1,12 @@
+/**
+ * The main file to create the font specifications
+ *
+ * @class SourceSansPro.scss
+ */
 @import "mixins/string";
 @import "config";
 @import "definitions";
 
-/* Rendering */
 @each $type in $font-types {
   $index: index($font-types, $type);
   
