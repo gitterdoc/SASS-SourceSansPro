@@ -1,0 +1,20 @@
+@import "_mixins/strings";
+@import "_config";
+@import "_definitions";
+
+/* Rendering */
+@each $type in $font-types {
+  $index: index($font-types, $type);
+  
+  @each $set in $font-characters {
+  	@font-face {
+  		font-family:	$font-name;
+  		font-style:		normal;
+  		font-weight:	nth($font-weights, $index);
+  		src:			local($font-name + " " + $type),
+  						local(trim($font-name) + "-" + $type),
+  						url($font-folder + trim($font-name) + "-" + $type + "_" + $set + "." + $font-type)
+  						format($font-type);
+  	}
+  }
+}
