@@ -17,6 +17,9 @@ Original from [Open Sans - Google Fonts](https://fonts.google.com/specimen/Open+
 
 Copyright 2010, 2012, 2014 Adobe Systems Incorporated (http://www.adobe.com/).
 
+## :fire: Support us!
+I'm a excellent and professional web- & software developer but i don't work anymore in these branche. I spend some free time to create awesome content. Support me by **liking my repositorys** :heart_eyes: or spend me a coffee :coffee:!
+
 ## :key: License
 ```
 Copyright 2010, 2012, 2014 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name ‘Source’.
